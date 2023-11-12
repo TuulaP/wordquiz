@@ -9,7 +9,13 @@
 저거;tuo
 컴퓨터;tietokone
 영어;englannin kieli
-그럼;sitten, siis  (lauseen alussa)
-그거; se, tuo
+그럼;sitten, siis;(lauseen alussa)
+그거;se, tuo
 공책;vihko
 노트북;notebook
+이거 뭐어요;Mikä tämä on?
+이거 사전  이에요;Tämä on sanakirja
+그거 책 이에요?;Onko se kirja?
+네,이거 책이에요.;Kyllä, tämä on kirja.
+저거 뭐예요?;Mikä tuo on?
+그거는 컴퓨터 예요.;Tuo on tietokone.
