@@ -1,0 +1,15 @@
+이거;tämä
+한국말;korean kieli
+한국말로;koreaksi
+한국어로;korean kielellä
+뭐;mikä
+책;kirja
+아니요;ei
+사전;sanakirja
+저거;tuo
+컴퓨터;tietokone
+영어;englannin kieli
+그럼;sitten, siis  (lauseen alussa)
+그거; se, tuo
+공책;vihko
+노트북;notebook
