@@ -19,3 +19,62 @@
 네,이거 책이에요.;Kyllä, tämä on kirja.
 저거 뭐예요?;Mikä tuo on?
 그거는 컴퓨터 예요.;Tuo on tietokone.
+저는 학생이 아니에요;En ole opiskelija
+레오는 스웬덴 사람이 아니에요;Leo ei ole ruotsalainen
+사우나는 영어가 아니에요;Sauna ei ole englantia
+감은 채소가 아니에요;Persimoni ei ole vihannes
+우리 한국어 선생님은 한국인이 아니에요;Korean kielen opettajamme ei ole korealainen
+이것은 책이 아니라 공책이다;Tämä ei ole kirja vaan vihko.
+그거는 볼펜이 아니라 연필이에요;Se ei ole kuulakärkikynä vaan vihko
+저거는 오렌지가 아니라 귤이에요;Tuo ei ole appelsiini vaan mandariini
+레오는 미국인이 아니고 핀란드인이에요;Leo ei ole yhdysvaltalainen vaan suomalainen
+사우나는 영어가 아니고 핀란드식이에요;Sauna ei ole englantia vaan suomea
+그게 열쇠예요;Onko tuo avain?
+이거요?;Tämäkö?
+네,그거요.;Kyllä, se.
+벤야민은이 배우예요?;Onko Benjamin näyttelijä?
+누구요;Kuka?
+벤야민이요;Benjamin
+저거 뭐여요?;Mikä tuo on?
+저거요?;Tuoko?
+컴퓨터;tietokone
+노트북;läppäri
+휴대폰;kännykkä
+스마트폰;älypuhelin
+커피;kahvi
+초콜릿;suklaa
+케이크;kakku
+피자;pizza
+스파게티;spagetti
+아이스크림;jäätelö
+스키;hiihto
+스케이트;luistelu
+아이스 하키;jääkiekko
+한국;Korea
+핀란드;Suomi
+스웨덴;Ruotsi
+노르웨이;Norja
+덴마크;Tanska
+에스토니아;Viro
+러시아;Venäjä
+영국;Englanti;
+독일;Saksa
+멕시코;Meksiko
+미국;Yhdysvallat
+호주;Australia
+중국;Kiina
+일본;Japani
+베트남;Vietnam
+태국;Thaimaa
+이집트;Egypti
+소말리아;Somalia;
+어느 나라 사람이에요?;Mistä maasta olet?
+핀란드 사람이에요;Olen suomalainen
+
+
+
+
+
+
+
+
