@@ -70,7 +70,7 @@
 소말리아;Somalia;
 어느 나라 사람이에요?;Mistä maasta olet?
 핀란드 사람이에요;Olen suomalainen
-
+국가명;maita;maiden nimiä
 
 
 
